@@ -8,15 +8,17 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Cybercrime:** digital crimes, phishing, ransomeware, phishing-as-a-service.
+- **Cyber Threat Intelligence:**
+- **Natural Language Processing:** Information Extraction, Large Language Models
+- **Game Theory:** 
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Feb. 2020]** Attended the ARES conference 2025 @ Ghent University, Belgium. 
+- **[Feb. 2020]** Gave a presentation on cybercrime and data driven policing to data science and artificial intelligence bachelor students. 
+- **[Feb. 2020]** Joined the PhD representative team at FSE-UM. 
+- **[Sept. 2019]** Won Best Poster Award at the Research Day at Faculty of Science (FSE) at Maastricht University (UM). 
+- **[Jul. 2024]** Joined the Dept. of Advanced Computing Sciences (DACS) as a PhD candidate.
 
 {% include_relative _includes/publications.md %}
 
