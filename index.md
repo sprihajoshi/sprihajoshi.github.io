@@ -14,7 +14,9 @@ I am a Ph.D. student at ...
 - **Game Theory:** 
 
 ## News
-- **[Feb. 2020]** Attended the ARES conference 2025 @ Ghent University, Belgium. 
+-**[Oct. 2025]** Gave a presentation titled "" at the ICAI Day @Booking.com, Amsterdam.
+-**[]** Attended DCypher Cyber Innovation Day 2025 @ Amsterdam, Netherlands.
+- **[Aug. 2025]** Attended the ARES conference 2025 @ Ghent University, Belgium. 
 - **[Feb. 2020]** Gave a presentation on cybercrime and data driven policing to data science and artificial intelligence bachelor students. 
 - **[Feb. 2020]** Joined the PhD representative team at FSE-UM. 
 - **[Sept. 2019]** Won Best Poster Award at the Research Day at Faculty of Science (FSE) at Maastricht University (UM). 
@@ -22,4 +24,4 @@ I am a Ph.D. student at ...
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+[//]: #  {% include_relative _includes/services.md %}
